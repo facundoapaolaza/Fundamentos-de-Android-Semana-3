@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\lorda\\AndroidStudioProjects\\tareaSemana32\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu-rES\\values-eu-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lorda\\AndroidStudioProjects\\tareaSemana32\\app\\src\\main\\res\\values-eu-rES\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,108,150",
+                        "endColumns": "49,40,45",
+                        "endOffsets": "102,144,191"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,146",
+                        "endColumns": "49,40,45",
+                        "endOffsets": "100,141,187"
+                    }
+                }
+            ]
+        }
+    ]
+}

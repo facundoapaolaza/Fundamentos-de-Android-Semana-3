@@ -1,0 +1,4 @@
+com/example/tareasemana3/BuildConfig.java
+ com.example.tareasemana3.BuildConfig
+com/example/tareasemana3/MainActivity.java
+ com.example.tareasemana3.MainActivity
