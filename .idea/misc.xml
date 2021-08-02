@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/lorda/AndroidStudioProjects/Semana3/app/src/main/res/layout/activity_main.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/lorda/AndroidStudioProjects/Semana3/app/src/main/res/layout-land/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/lorda/AndroidStudioProjects/Semana3/app/src/main/res/layout-large-land/activity_main.xml" value="0.5571428571428572" />
+        <entry key="..\:/Users/lorda/AndroidStudioProjects/Semana3/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/lorda/AndroidStudioProjects/Semana3/app/src/main/res/layout-xlarge-land/activity_main.xml" value="0.203515625" />
+        <entry key="..\:/Users/lorda/AndroidStudioProjects/Semana3/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
